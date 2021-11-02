@@ -1,7 +1,7 @@
 var searchInsert = function(nums, target) {
     let i
-    for(i = 0; i < nums.length && nums[i] <= target; i++){
-        if(nums[i] === target){
+    for(i = 0; i < nums.length; i++){
+        if(nums[i] >= target){
             return i
         }
     }
