@@ -28,7 +28,7 @@ let isValid = function(s) {
 };
 
 
-//  ***** examples
+//  ***** other attempts
 
 // let isValid = function(s) {
 //     while (
@@ -44,6 +44,7 @@ let isValid = function(s) {
 //   };
 
   // * --------------------------
+  // * less memory
 
 //   var isValid = function(s) {
         
